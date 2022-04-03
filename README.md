@@ -1,2 +1,2 @@
 # GoogleTrendsWebscrapping
-Simple Google Trends Webscrapper
+Simple Stock prices Webscrapper
